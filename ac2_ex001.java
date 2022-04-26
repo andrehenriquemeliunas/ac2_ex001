@@ -13,7 +13,7 @@ public class ac2_ex001{
         System.out.println("Você é gestante? Digite 1 para SIM, e 2 para NÃO");//Verifico se o usuário é gestante
         ges = s.nextInt();//Salvo a resposta do usuário
 
-        if(idoso == 1 || def == 1 || ges == 1){//Condicional na qual todas tem que ser verdadeiras
+        if(idoso == 1 || def == 1 || ges == 1){//Condicional na qual apenas uma tem que ser verdadeira
             System.out.print("Você PODE estacionar na vaga preferencial!");//Se a condição for satisfeita
         }else{
             System.out.print("Você NÃO pode estacionar na vaga preferencial!");//Se a condição não for satisfeita

@@ -1,0 +1,9 @@
+Início
+	
+	Se for idoso ou deficiente ou gestante? Faça
+		Pode estacionar
+	Se não
+		Não pode Estacionar
+	Fim Se
+
+Fim

@@ -1,5 +1,5 @@
-# ac2_001
- ###Exercício 1 da AC2 - Estacionamento
+# Exercício 1 da AC2
+Estacionamento
 
 ## Algoritmo do Exercício
     Início
